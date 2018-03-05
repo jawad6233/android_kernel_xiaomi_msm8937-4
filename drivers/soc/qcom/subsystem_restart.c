@@ -39,6 +39,8 @@
 
 #include <asm/current.h>
 
+#define WT_SUBSYSTEM_REASTART_LEVEL "RELATED"
+
 #include "peripheral-loader.h"
 
 #define DISABLE_SSR 0x9889deed
